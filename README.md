@@ -1,7 +1,6 @@
 # Overview
 
 This is a simple demo of Hello World in C++
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
